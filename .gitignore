@@ -1,0 +1,5 @@
+# java cls files
+*.class
+
+# maven target dir
+target
