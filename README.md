@@ -1,2 +1,2 @@
 # design-patterns-in-java
-Design patterns implemented in Java taken from the Gang of Four book.
+Design patterns taken from the Gang of Four book, implemented and presented for Pluralsight by Bryan Hansen.
